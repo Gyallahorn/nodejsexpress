@@ -1,0 +1,4 @@
+PassengerNodejs /home/v/valkeru/.local/bin/node
+PassengerAppRoot /home/v/valkeru/node/HelloWorld
+PassengerAppType node
+PassengerStartupFile server.js
